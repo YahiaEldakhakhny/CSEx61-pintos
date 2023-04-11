@@ -1,1 +1,5 @@
-.vscode/settings.json
+### Telling git to ignore all the files and folders
+*
+
+### Except these files
+!*/.gitignore
